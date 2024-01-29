@@ -1,0 +1,67 @@
+G:\#BIT\Visual C# Projects\Laundry System Project\bin\Debug\Laundry System Project.exe.config
+G:\#BIT\Visual C# Projects\Laundry System Project\bin\Debug\Laundry System Project.exe
+G:\#BIT\Visual C# Projects\Laundry System Project\bin\Debug\Laundry System Project.pdb
+G:\#BIT\Visual C# Projects\Laundry System Project\obj\Debug\Laundry System Project.csprojAssemblyReference.cache
+G:\#BIT\Visual C# Projects\Laundry System Project\obj\Debug\Laundry_System_Project.Properties.Resources.resources
+G:\#BIT\Visual C# Projects\Laundry System Project\obj\Debug\Laundry System Project.csproj.GenerateResource.cache
+G:\#BIT\Visual C# Projects\Laundry System Project\obj\Debug\Laundry System Project.csproj.CoreCompileInputs.cache
+G:\#BIT\Visual C# Projects\Laundry System Project\obj\Debug\Laundry System Project.exe
+G:\#BIT\Visual C# Projects\Laundry System Project\obj\Debug\Laundry System Project.pdb
+G:\#BIT\Visual C# Projects\Laundry System Project\obj\Debug\Laundry_System_Project.Login.resources
+G:\#BIT\Visual C# Projects\Laundry System Project\obj\Debug\Laundry_System_Project.Registration.resources
+G:\#BIT\Visual C# Projects\Laundry System Project\obj\Debug\Laundry_System_Project.Billing.resources
+G:\#BIT\Visual C# Projects\Laundry System Project\obj\Debug\Laundry_System_Project.Cloths_Detail.resources
+G:\#BIT\Visual C# Projects\Laundry System Project\obj\Debug\Laundry_System_Project.homePage.resources
+G:\#BIT\Visual C# Projects\Laundry System Project\obj\Debug\Laundry_System_Project.Recovery.resources
+G:\#BIT\Visual C# Projects\Laundry System Project\obj\Debug\Laundry_System_Project.ProfitDetails.resources
+G:\#BIT\Visual C# Projects\Laundry System Project\obj\Debug\Laundry System Project.exe.config
+G:\#BIT\Visual C# Projects\Laundry System Project\bin\Debug\MySql.Data.dll
+G:\#BIT\Visual C# Projects\Laundry System Project\bin\Debug\Google.Protobuf.dll
+G:\#BIT\Visual C# Projects\Laundry System Project\bin\Debug\Zstandard.Net.dll
+G:\#BIT\Visual C# Projects\Laundry System Project\bin\Debug\K4os.Compression.LZ4.Streams.dll
+G:\#BIT\Visual C# Projects\Laundry System Project\bin\Debug\BouncyCastle.Crypto.dll
+G:\#BIT\Visual C# Projects\Laundry System Project\bin\Debug\Ubiety.Dns.Core.dll
+G:\#BIT\Visual C# Projects\Laundry System Project\bin\Debug\Renci.SshNet.dll
+G:\#BIT\Visual C# Projects\Laundry System Project\bin\Debug\System.Memory.dll
+G:\#BIT\Visual C# Projects\Laundry System Project\bin\Debug\System.Buffers.dll
+G:\#BIT\Visual C# Projects\Laundry System Project\bin\Debug\K4os.Compression.LZ4.dll
+G:\#BIT\Visual C# Projects\Laundry System Project\bin\Debug\K4os.Hash.xxHash.dll
+G:\#BIT\Visual C# Projects\Laundry System Project\bin\Debug\System.Numerics.Vectors.dll
+G:\#BIT\Visual C# Projects\Laundry System Project\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+G:\#BIT\Visual C# Projects\Laundry System Project\bin\Debug\MySql.Data.xml
+G:\#BIT\Visual C# Projects\Laundry System Project\obj\Debug\Laundry System Project.csproj.CopyComplete
+G:\#BIT\Visual C# Projects\Laundry System Project\obj\Debug\Laundry_System_Project.ChangeRate.resources
+G:\#BIT\Visual C# Projects\Laundry System Project\obj\Debug\Laundry_System_Project.WorkDone.resources
+G:\#BIT\!st year\Laundry System Project\bin\Debug\Laundry System Project.exe.config
+G:\#BIT\!st year\Laundry System Project\bin\Debug\Laundry System Project.exe
+G:\#BIT\!st year\Laundry System Project\bin\Debug\Laundry System Project.pdb
+G:\#BIT\!st year\Laundry System Project\bin\Debug\MySql.Data.dll
+G:\#BIT\!st year\Laundry System Project\bin\Debug\Google.Protobuf.dll
+G:\#BIT\!st year\Laundry System Project\bin\Debug\Zstandard.Net.dll
+G:\#BIT\!st year\Laundry System Project\bin\Debug\K4os.Compression.LZ4.Streams.dll
+G:\#BIT\!st year\Laundry System Project\bin\Debug\BouncyCastle.Crypto.dll
+G:\#BIT\!st year\Laundry System Project\bin\Debug\Ubiety.Dns.Core.dll
+G:\#BIT\!st year\Laundry System Project\bin\Debug\Renci.SshNet.dll
+G:\#BIT\!st year\Laundry System Project\bin\Debug\System.Buffers.dll
+G:\#BIT\!st year\Laundry System Project\bin\Debug\K4os.Compression.LZ4.dll
+G:\#BIT\!st year\Laundry System Project\bin\Debug\K4os.Hash.xxHash.dll
+G:\#BIT\!st year\Laundry System Project\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+G:\#BIT\!st year\Laundry System Project\bin\Debug\MySql.Data.xml
+G:\#BIT\!st year\Laundry System Project\obj\Debug\Laundry System Project.exe.config
+G:\#BIT\!st year\Laundry System Project\obj\Debug\Laundry_System_Project.Billing.resources
+G:\#BIT\!st year\Laundry System Project\obj\Debug\Laundry_System_Project.ChangeRate.resources
+G:\#BIT\!st year\Laundry System Project\obj\Debug\Laundry_System_Project.Cloths_Detail.resources
+G:\#BIT\!st year\Laundry System Project\obj\Debug\Laundry_System_Project.homePage.resources
+G:\#BIT\!st year\Laundry System Project\obj\Debug\Laundry_System_Project.Login.resources
+G:\#BIT\!st year\Laundry System Project\obj\Debug\Laundry_System_Project.ProfitDetails.resources
+G:\#BIT\!st year\Laundry System Project\obj\Debug\Laundry_System_Project.Properties.Resources.resources
+G:\#BIT\!st year\Laundry System Project\obj\Debug\Laundry_System_Project.Recovery.resources
+G:\#BIT\!st year\Laundry System Project\obj\Debug\Laundry_System_Project.Registration.resources
+G:\#BIT\!st year\Laundry System Project\obj\Debug\Laundry_System_Project.WorkDone.resources
+G:\#BIT\!st year\Laundry System Project\obj\Debug\Laundry System Project.csproj.GenerateResource.cache
+G:\#BIT\!st year\Laundry System Project\obj\Debug\Laundry System Project.csproj.CoreCompileInputs.cache
+G:\#BIT\!st year\Laundry System Project\obj\Debug\Laundry System Project.csproj.CopyComplete
+G:\#BIT\!st year\Laundry System Project\obj\Debug\Laundry System Project.exe
+G:\#BIT\!st year\Laundry System Project\obj\Debug\Laundry System Project.pdb
+G:\#BIT\!st year\Laundry System Project\obj\Debug\Laundry_System_Project.EmployeeHomepage.resources
+G:\#BIT\!st year\Laundry System Project\obj\Debug\Laundry System Project.csprojAssemblyReference.cache
